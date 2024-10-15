@@ -1,0 +1,52 @@
+{
+  "Hero": {
+    "title": "ហាងអនឡាញពិភពលោកដ៏ល្អបំផុតសម្រាប់កុំព្យូទ័រយួរដៃ និង macbooks",
+    "ctaButton": "ទិញឥឡូវនេះ"
+  },
+  "Product": {
+    "title": "ផលិតផលទាំងអស់",
+    "productCardMeta": {
+      "buttonText": "ជ្រើសរើស"
+    },
+    "addtoCartMessage": "អ្នកបានបញ្ចូលផលិតផលទៅក្នុងរទេះដោយជោគជ័យ",
+
+    "data": {
+      "product1": {
+        "title": "Macbook Pro",
+        "price": 1200,
+        "image": "/products/macbook-pro.png",
+        "description": "ធ្វើការលើអ្វីក៏បាន គ្រប់ទីកន្លែងជាមួយនឹង Macbook Air 2020 ដែលស្រាល និងលឿនមិនគួរឱ្យជឿ។ បន្ទះឈីប M1 គឺជាឧបករណ៍ផ្លាស់ប្តូរហ្គេម។ វាលឿនជាង Macbook Air ជំនាន់មុន 3.5x ហើយមាន 8 CPU និង 7 GPU cores ដូច្នេះអ្នកអាចធ្វើការកាត់តវីដេអូ និងលេងហ្គេមបាន។ លើសពីនេះ វាមានប្រសិទ្ធភាពថាមពលមិនគួរឱ្យជឿ។ M1 អនុញ្ញាតឱ្យអ្នករុករករហូតដល់ 15 ម៉ោង ឬមើលទូរទស្សន៍ Apple ប្រហែល 18 - នោះជាការហោះហើរពេញលេញពីទីក្រុងឡុងដ៍ទៅស៊ីដនី!"
+      },
+      "product2": {
+        "title": "Iphone 12",
+        "price": 1200,
+        "image": "/products/iphone-15.png",
+        "description": "Apple iPhone 12 សំបូរទៅដោយមុខងារឆ្លាតវៃ និងថាមពលខ្លាំង។ បន្ទះឈីប A14 Bionic និង 16-core Neural Engine របស់វាកំពុងដំណើរការកម្មវិធី ហើយពួកវាមិនដំណើរការយឺតដោយសារកម្មវិធី ឬហ្គេមណាមួយឡើយ។ ពី Apple TV ទៅអ៊ីមែល អ្វីគ្រប់យ៉ាងមើលទៅអស្ចារ្យនៅលើអេក្រង់ 6.1 អ៊ីញ Super Retina XDR ។"
+      },
+      "product3": {
+        "title": "Apple Gear Lightening Headphone",
+        "price": 800,
+        "image": "/products/gear-lightening-headphones.jpg",
+        "decription": "អ្នក​នឹង​ចូលចិត្ត​កម្រិត​សំឡេង​តន្ត្រី​របស់​អ្នក​ល្អ​ជាមួយ Apple AirPods Max។ អ្នកបើកបរដែលបង្កើតដោយខ្លួនឯងផលិតបាសដ៏ជ្រៅ សម្បូរបែប កណ្តាលកណ្តាប់ដៃ និងខ្ពស់ស្រឡះ ដូច្នេះអ្នកអាចបាត់បង់ខ្លួនឯងនៅគ្រប់ចង្វាក់។ ជាមួយនឹងមុខងារ Active Noise Cancelling អ្នកអាចទប់ស្កាត់សំឡេងរំខានផ្ទៃខាងក្រោយទាំងអស់នោះ ហើយរីករាយនឹងបទភ្លេងរបស់អ្នកដោយគ្មានការរំខាន – ល្អឥតខ្ចោះសម្រាប់ការធ្វើដំណើរតាមរថភ្លើងពេលព្រឹក។"
+      },
+      "product4": {
+        "title": "Apple Airpods Black",
+        "price": 120,
+        "image": "/products/apple-airpods-black.webp",
+        "description": "ថ្មី៖ របស់ថ្មីដែលមិនទាន់ប្រើ មិនទាន់បានបើក និងមិនមានការខូចខាតនៅក្នុងវេចខ្ចប់លក់រាយដើម (ដែលការវេចខ្ចប់អាចអនុវត្តបាន)។ ប្រសិនបើរបស់នោះមកដោយផ្ទាល់ពីអ្នកផលិត វាអាចត្រូវបានចែកចាយក្នុងវេចខ្ចប់មិនលក់រាយ ដូចជាប្រអប់ធម្មតា ឬមិនបោះពុម្ព ឬថង់ប្លាស្ទិក។ សូមមើលបញ្ជីរបស់អ្នកលក់សម្រាប់ព័ត៌មានលម្អិតពេញលេញ។"
+      },
+      "product5": {
+        "title": "Apple Airpods Blue",
+        "price": 120,
+        "image": "/products/apple-airpods-blue.webp",
+        "description": "អ្នក​នឹង​ចូលចិត្ត​កម្រិត​សំឡេង​តន្ត្រី​របស់​អ្នក​ល្អ​ជាមួយ Apple AirPods Max។ អ្នកបើកបរដែលបង្កើតដោយខ្លួនឯងផលិតបាសដ៏ជ្រៅ សម្បូរបែប កណ្តាលកណ្តាប់ដៃ និងខ្ពស់ស្រឡះ ដូច្នេះអ្នកអាចបាត់បង់ខ្លួនឯងនៅគ្រប់ចង្វាក់។ ជាមួយនឹងមុខងារ Active Noise Cancelling អ្នកអាចទប់ស្កាត់សំឡេងរំខានផ្ទៃខាងក្រោយទាំងអស់នោះ ហើយរីករាយនឹងបទភ្លេងរបស់អ្នកដោយគ្មានការរំខាន – ល្អឥតខ្ចោះសម្រាប់ការធ្វើដំណើរតាមរថភ្លើងពេលព្រឹក។"
+      },
+      "product6": {
+        "title": "Laptop Stand",
+        "price": 20,
+        "image": "/products/laptop-stand.webp",
+        "description": "This laptop stand is fully adjustable in terms of height and angle; you may elevate the laptop screen height freely up or down for improved ergonomics and to reduce neck discomfort."
+      }
+    }
+  }
+}
